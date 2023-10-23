@@ -7,7 +7,7 @@ require (
 	github.com/khulnasoft-labs/hmap v0.0.15
 	github.com/khulnasoft-labs/networkpolicy v0.0.7
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.46
 	github.com/pkg/errors v0.9.1
 	github.com/refraction-networking/utls v1.3.3
 	github.com/stretchr/testify v1.8.4
