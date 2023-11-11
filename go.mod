@@ -6,7 +6,7 @@ require (
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/khulnasoft-lab/hmap v0.0.17
 	github.com/khulnasoft-lab/networkpolicy v0.0.8
-	github.com/khulnasoft-lab/retryabledns v1.0.32
+	github.com/khulnasoft-lab/retryabledns v1.0.34
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/pkg/errors v0.9.1
 	github.com/refraction-networking/utls v1.5.4
@@ -24,6 +24,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
@@ -31,7 +32,6 @@ require (
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.25 // indirect
 	github.com/miekg/dns v1.1.56 // indirect
-	github.com/nxadm/tail v1.4.11 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/quic-go/quic-go v0.37.4 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
